@@ -1,0 +1,31 @@
+{
+    "guid": "f087212d-f1e7-f7a2-6981-1f4f349c346f",
+    "source": "../SK_Alien.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "fa14e20d-84fb-e9ea-ad8e-db286e63877a",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK_Alien"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "eb7cc5dd-fef3-3d30-486c-48b6cc97ece2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Alien"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8ddda3e5-67a2-c0b0-7521-1dcf3e3f2fa8"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "f087212d-f1e7-f7a2-6981-1f4f349c346f"
+    }
+}

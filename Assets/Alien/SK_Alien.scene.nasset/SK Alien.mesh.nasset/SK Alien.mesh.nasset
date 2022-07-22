@@ -1,0 +1,168 @@
+{
+    "guid": "8ddda3e5-67a2-c0b0-7521-1dcf3e3f2fa8",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "245788c0-bf73-e714-3b31-32a44910ad98",
+    "data_components": [],
+    "children": [
+		{
+			"typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+			"instanceGuid": "a9e92856-a555-2aa8-ffb8-eb202193eb2c",
+			"data_components": [
+				{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "Skeleton"
+				}
+			],
+			"children": [
+				{
+					"typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+					"instanceGuid": "fbfff36d-4be5-3243-1e6d-b31426d556b7",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "SK Alien Stripe"
+						}
+					],
+					"9f750482-b822-4d4b-be6a-9c135c614328": {
+						"stages": [
+							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+						]
+					},
+					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+						"mesh": "c0577fe5-f27f-37fd-ac4e-112f14f8706c",
+						"material_instance": "0f7c3c14-315d-5b3d-b38f-0f85fc54e692"
+					},
+					"e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+						"skin": "643c059f-9ff4-3d3d-daf2-8eb65afa9a74"
+					}
+				},
+				{
+					"typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+					"instanceGuid": "a8a3a195-8740-3110-6e2b-6470d5927630",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "SK Alien Main"
+						}
+					],
+					"9f750482-b822-4d4b-be6a-9c135c614328": {
+						"stages": [
+							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+						]
+					},
+					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+						"mesh": "e478b076-2a9f-08c7-2ba2-a1adeacc8cfd",
+						"material_instance": "9545b2d0-753b-4d21-ab60-0263ecb928c8"
+					},
+					"e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+						"skin": "a5724e44-af57-45fb-70e8-bcf410b13a54"
+					}
+				},
+				{
+					"typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+					"instanceGuid": "76d38fc1-e022-3ac9-ae48-ac3a533dddf8",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "SK Alien Nails"
+						}
+					],
+					"9f750482-b822-4d4b-be6a-9c135c614328": {
+						"stages": [
+							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+						]
+					},
+					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+						"mesh": "99a18c46-653e-4ddd-fde6-3b1ed2a42c03",
+						"material_instance": "44b5aa6b-0345-429a-f87a-276725396144"
+					},
+					"e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+						"skin": "de836e7b-345b-80f4-3fb5-56559bb01eb0"
+					}
+				},
+				{
+					"typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+					"instanceGuid": "b8508af2-660e-a205-ca91-225871cb6ac6",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "SK Alien Eyes"
+						}
+					],
+					"9f750482-b822-4d4b-be6a-9c135c614328": {
+						"stages": [
+							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+						]
+					},
+					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+						"mesh": "741ed720-db4e-51aa-b319-56f3408f2fcc",
+						"material_instance": "24be7f21-4d8d-3db8-7f1b-a7c229c737b5"
+					},
+					"e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+						"skin": "56db5ad1-5362-6283-d225-7a1612026d5f"
+					}
+				},
+				{
+					"typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+					"instanceGuid": "fdd6eaff-96cd-f598-c3e1-27ff0bfd95d9",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "SK Alien White"
+						}
+					],
+					"9f750482-b822-4d4b-be6a-9c135c614328": {
+						"stages": [
+							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+						]
+					},
+					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+						"mesh": "3741ad2b-c6c5-4e39-1043-a05cc0267620",
+						"material_instance": "836d51ae-911c-3631-5e1d-776216171053"
+					},
+					"e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+						"skin": "61d3116e-13be-d761-ea55-10efa5009c05"
+					}
+				},
+				{
+					"typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+					"instanceGuid": "3f5b694b-bd60-91f8-8b84-2aa9d9f6c00b",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "SK Alien Glass"
+						}
+					],
+					"9f750482-b822-4d4b-be6a-9c135c614328": {
+						"stages": [
+							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+						]
+					},
+					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+						"mesh": "29a2a283-233a-e2ff-a7de-44c3567f937d",
+						"material_instance": "0e700e2c-5987-ccf2-c0e9-d345e11749d2"
+					},
+					"e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+						"skin": "dad4df13-3420-9598-9cc8-4a108db5aab4"
+					}
+				}
+			],
+			"f6140603-c29e-4bf9-946d-498dba6709ff": {
+				"skeleton": "ebe65db3-3f10-b039-fd89-508999fb15f3"
+			}
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "8ddda3e5-67a2-c0b0-7521-1dcf3e3f2fa8"
+    }
+}
