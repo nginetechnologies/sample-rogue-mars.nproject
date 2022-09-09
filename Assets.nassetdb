@@ -71,6 +71,12 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "048cf5e5-8cb5-4973-a63f-9115c3a2da5f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/OrangeSky.mtli.nasset",
+        "thumbnail": "1b705561-d3bf-fb1d-63af-9c19a3587c68"
+    },
     "0683cce2-f0ae-2abc-b871-c8a992251d51": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -909,12 +915,6 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
-    },
-    "74e5159b-0ab5-4ac1-b761-55bb7fe0d93b": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/OrangeSky.mtli.nasset",
-        "thumbnail": "1b705561-d3bf-fb1d-63af-9c19a3587c68"
     },
     "751f531d-a837-604d-97c0-2202a2527419": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
