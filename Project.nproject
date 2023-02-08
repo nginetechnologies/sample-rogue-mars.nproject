@@ -1,6 +1,7 @@
 {
     "name": "Rogue Mars",
     "guid": "b017b756-087f-4214-b093-592ccf6bbf80",
+    "database_guid": "76009ab4-fcc7-46fb-9ace-2eacc19240a9",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
