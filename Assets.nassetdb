@@ -9,6 +9,10 @@
         "path": "Project.nproject",
         "thumbnail": "a38432a9-3edf-4918-a4ec-10291d987861"
     },
+    "76009ab4-fcc7-46fb-9ace-2eacc19240a9": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
     "guid": "76009ab4-fcc7-46fb-9ace-2eacc19240a9",
     "imported_assets": [
         "003e23ef-2390-1c2e-ad8c-66d0e8ef4e17",
