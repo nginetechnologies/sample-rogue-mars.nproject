@@ -4,14 +4,15 @@
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Rogue Mars.scene.nasset"
     },
-    "b017b756-087f-4214-b093-592ccf6bbf80": {
-        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
-        "path": "Project.nproject",
-        "thumbnail": "a38432a9-3edf-4918-a4ec-10291d987861"
-    },
     "76009ab4-fcc7-46fb-9ace-2eacc19240a9": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
+    },
+    "b017b756-087f-4214-b093-592ccf6bbf80": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Rogue Mars",
+        "thumbnail": "a38432a9-3edf-4918-a4ec-10291d987861"
     },
     "guid": "76009ab4-fcc7-46fb-9ace-2eacc19240a9",
     "imported_assets": [
