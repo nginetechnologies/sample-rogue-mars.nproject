@@ -3017,7 +3017,7 @@
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
-                "asset": "25e18331-6a1b-4c35-a314-0968f8f31f9b"
+                "asset": "debbd74c-8411-427d-b37f-c27dfd0fa41a"
             },
             "data_components": [
                 {
@@ -3175,8 +3175,8 @@
             },
             "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
                 "radius": 40.0,
-                "irradiance": "516a9b39-94eb-e908-cf75-ce77c6bbebb1",
-                "prefiltered": "5085fd6d-a14d-5c7a-bf77-13389161e5cb"
+                "irradiance": "e47be0ca-6218-727b-5431-29c93c4d9ea3",
+                "prefiltered": "4497a048-a45d-c5b2-1880-eda037dc84fa"
             },
             "data_components": [
                 {
