@@ -1,5 +1,6 @@
 {
     "guid": "6d797fdd-18d0-4b03-b90d-d83ea771d521",
+    "type_version": 1,
     "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
     "instanceGuid": "caa63f87-c8d8-dd3c-241f-3e54fcba029e",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
@@ -21,14 +22,14 @@
             },
             "transform": {
                 "position": [
-                    -11.9447,
-                    -12.9776,
-                    12.8029
+                    -3.2991,
+                    1.6248,
+                    7.6908
                 ],
                 "rotation": [
-                    -37.5851,
-                    -0.0,
-                    -42.0464
+                    -31.1429,
+                    0.0,
+                    42.1098
                 ]
             },
             "grid_settings": {
@@ -37,7 +38,7 @@
                     "transform": {
                         "scale": [
                             -1.0,
-                            -1.0,
+                            1.0,
                             1.0
                         ]
                     }
@@ -55,13 +56,36 @@
                     "templateInstanceGuid": "007ee408-9c9e-7c60-7f9e-f7938ba3280c"
                 }
             ],
+            "children": [
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "4bbfa908-31e3-5fac-95e8-763ee21705bf",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -43.1449,
+                            -4.8366,
+                            1.9995
+                        ],
+                        "rotation": [
+                            0.0,
+                            -0.0,
+                            26.918
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "370a5774-a868-8bea-1e00-5e163197fe63"
+                        }
+                    ]
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "a284fa70-3851-4c00-7459-43a3946e1395"
             }
         },
         {
             "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
-            "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     3.2569,
@@ -93,24 +117,19 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Light"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
                 }
             ]
         },
         {
             "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
-            "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -25.1403,
@@ -136,25 +155,19 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Environment Light",
-                    "flags": 2
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light"
                 }
             ]
         },
         {
             "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
-            "instanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
@@ -163,13 +176,9 @@
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
-                "asset": "ec66ce19-1e67-478b-a8e6-07b9cf74df4c"
+                "asset": "972a1045-d1dc-46b8-9d79-dd66d929172b"
             },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spawn Point"
-                },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
@@ -177,14 +186,13 @@
                     ]
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
                 }
             ]
         },
         {
             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-            "instanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "scale": [
                     100.0
@@ -202,18 +210,14 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Skysphere"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
                 }
             ]
         }

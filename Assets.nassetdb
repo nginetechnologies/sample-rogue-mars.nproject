@@ -1725,7 +1725,7 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "ec66ce19-1e67-478b-a8e6-07b9cf74df4c": {
+    "972a1045-d1dc-46b8-9d79-dd66d929172b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Player/Player.scene.nasset",
@@ -1834,5 +1834,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    }
+    },
+    "guid": "1fe32ca7-fb46-cb56-0eaf-b40626c553a3"
 }
