@@ -1,1839 +1,398 @@
 {
-    "00195c84-05ca-1dc9-c717-24aa9aff10ab": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Top.mesh.nasset/Rocket Top.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "01fd9b2e-2cdd-f769-2a01-c081bd26a841": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Track Support.mesh.nasset/Monorail Track Support Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "02214b4f-5f15-caac-6b3b-bd7fc96553a5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Track Corner LRG.mesh.nasset/Monorail Track Corner LRG Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "026186fd-f73c-2654-89b6-e17dc5d065fa": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Full Railing.mesh.nasset/Full Railing Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "02840ef6-7191-bfb4-dea0-046cd27de699": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Generator.mesh.nasset/Machine Generator Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "0306323d-430e-5f35-7a86-9577d2d84432": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Fins.mesh.nasset/Rocket Fins Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "0327524a-9a1d-73e7-7f78-0224e4449db5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocks Pebbles 02.mesh.nasset/Rocks Pebbles 02.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "033d43e1-cf89-2f9f-e78c-bd72bca5d930": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Craft Speeder.mesh.nasset/Craft Speeder Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "03a06431-2bdf-659c-3dc4-073b80350585": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform LG.mesh.nasset/Platform LG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "048cf5e5-8cb5-4973-a63f-9115c3a2da5f": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/OrangeSky.mtli.nasset",
-        "thumbnail": "1b705561-d3bf-fb1d-63af-9c19a3587c68"
-    },
-    "0683cce2-f0ae-2abc-b871-c8a992251d51": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Structure.mesh.nasset/Structure Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "06ad9240-ede2-8201-5a67-1d3c9a42baab": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Metal.mtli.nasset"
-    },
-    "07b21dbe-9e68-c714-adff-76a43895085a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Road Straight.mesh.nasset/Terrain Road Straight Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "0c38984c-e1d7-fdac-336e-0e63c1498bfa": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Hangar.mesh.nasset/Hangar Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "0e3da90c-9326-76f2-7369-35bd9fb142c1": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Corridor Window.mesh.nasset/Corridor Window Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "10db95a5-f7c3-5a3c-acaf-c8af4d306c75": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Wireless Cable.mesh.nasset/Machine Wireless Cable Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "111a2729-6776-522b-803c-fbbc9a7769f4": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Hangar Gate.mesh.nasset/Hangar Gate Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "117ca0e3-6b78-b839-7013-55145ba5334a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Satellite Dish.mesh.nasset/Satellite Dish Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "12500ca1-4502-039b-1a4b-019c2e1e9186": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Eyes.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "12b46f34-7209-6058-6bcc-4e59577aaf06": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Load.mesh.nasset/Monorail Load Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "14c9bbaa-be18-bfc3-7168-6e7bc9ab2103": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Base.mesh.nasset/Rocket Base Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "193903f3-032a-aadc-c77e-99b9b91b56fa": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Alien/Material Instances/Nails.mtli.nasset"
-    },
-    "1a3e9ea9-25e1-2c6c-2690-40f404528738": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Side Corner.mesh.nasset/Terrain Side Corner Rock Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "1b3df835-5ed4-24a2-86ca-c79dc0a3fc3a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Corridor Split.mesh.nasset/Corridor Split Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "1c1d6042-681e-a034-c34d-0e79ee84cc7a": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Metal Dark.mtli.nasset"
-    },
-    "1c32eeac-2b8a-50b5-1940-924b5a3947e2": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Top.mesh.nasset/Rocket Top Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "1eb074de-2446-5098-3faf-dd7b59464bd8": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform LG.mesh.nasset/Platform LG Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "1ec5e310-644d-fdc1-0394-375aa9e5cff6": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Turret Double.mesh.nasset/Turret Double Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "1ed958d9-86fd-5438-5367-02eb2a511744": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Body.meshskin.nasset"
-    },
-    "1f726348-7033-c7a4-4dee-86dafa053c64": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Hangar Gate.mesh.nasset/Hangar Gate.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "23f65c02-3086-657e-0b17-6e1387033de0": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Wireless.mesh.nasset/Machine Wireless Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "25cd137b-a5ec-e444-329e-7527bc05d9ab": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Corridor End.mesh.nasset/Corridor End Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "27897906-0c10-aa9f-f737-50074c44281a": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Stripe.meshskin.nasset"
-    },
-    "28707382-38d1-406f-0a34-6c7315e70639": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Load.mesh.nasset/Monorail Load.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "28fe1927-6d9b-a689-7408-eacbded2183b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/machineGenerator LG3.mesh.nasset/machineGenerator LG3 Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "29145859-0545-dbc8-bdca-7d3da583ef88": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Corridor Window.mesh.nasset/Corridor Window Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "291e2de4-8906-d658-a6df-d6b9da61532a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Satellite Dish.mesh.nasset/Satellite Dish Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "29c533c9-7b93-8678-6736-8224c2daa7be": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Road Straight.mesh.nasset/Terrain Road Straight Rock Track.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "29c9e618-b209-c8fb-476b-3314bb7421e1": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Alien/Material Instances/Stripe.mtli.nasset"
-    },
-    "2c6ce4c6-b418-e53a-b629-f72eb45ff319": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Turret Single.mesh.nasset/Turret Single Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "2d9658e9-ec2a-f1d0-bf14-742e8a77b653": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Turret Base.mesh.nasset/Turret Base Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "3021aac0-a016-e69c-43b1-bcc32bfda6d3": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Mid.mesh.nasset/Rocket Mid Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "31219c3b-c62d-af1e-c0eb-bc3874eed125": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Train Cargo.mesh.nasset/Monorail Train Cargo Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "322b7afb-50cf-fdec-d9d2-6c4ea355e751": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Corridor End.mesh.nasset/Corridor End.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "32f14d3e-dc50-0881-3188-11efa72d4a08": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Road Corner.mesh.nasset/Terrain Road Corner.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "333cb29b-5d5f-9e4a-28b4-a9020b20ebad": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Turret Single.mesh.nasset/Turret Single Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "347032cd-662b-0640-1019-7fd4381dc9ce": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Generator.mesh.nasset/Machine Generator White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "3512adb3-97ae-5f69-eec1-132e69fb161f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Track Support.mesh.nasset/Monorail Track Support Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "36cc7b38-a335-2b82-2557-fcead0e7cc99": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Fins.mesh.nasset/Rocket Fins Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "3a3ad89d-807a-3fe0-dec9-c00666eacb4d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Structure.mesh.nasset/Structure.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "3a507f36-7422-d027-6ed1-92b36336641d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Hangar.mesh.nasset/Hangar Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "3d2286bb-92b0-28b8-f6ba-8104b8b34d5b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Satellite Dish.mesh.nasset/Satellite Dish White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "3d9becb1-7c03-4ffb-bf9d-212fbaaefaae": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Alien/Walk.anim.nasset"
-    },
-    "3fb1c575-ebbe-a163-a36c-b5f1119f2a06": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Train Cargo.mesh.nasset/Monorail Train Cargo Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "409daf1f-3650-a9a4-6789-204f67cc0314": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Side Corner Inner.mesh.nasset/Terrain Side Corner Inner.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "4207662a-5ffe-35a2-a428-c3fcbeaa013a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Hangar Gate.mesh.nasset/Hangar Gate Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "422ab05d-885b-d17a-e6df-881448efc05c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Wireless.mesh.nasset/Machine Wireless.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "43a0098c-d158-23ed-b738-4890ec95bca9": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Side Cliff.mesh.nasset/Terrain Side Cliff Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "4497a048-a45d-c5b2-1880-eda037dc84fa": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Rogue_EnviroSpecular.tex.nasset"
-    },
-    "44d272f3-52ef-e40e-90c6-57e704c885c8": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Desk Chair Arms.mesh.nasset/Desk Chair Arms Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "4517ec43-247d-4a72-873a-45aa2855e3d5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Generator.mesh.nasset/Machine Generator Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "46ab7cbe-917c-c4c0-b690-00ea208dc035": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Craft Speeder.mesh.nasset/Craft Speeder.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "47306176-7781-18ba-6179-44fdfc579c1b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Top.mesh.nasset/Rocket Top Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "47fe6f96-700a-9bcd-367e-986c4e3636fb": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Train Front.mesh.nasset/Monorail Train Front Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "48f8b927-bbb5-07ab-eaa9-32c52adc1a0e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Load.mesh.nasset/Monorail Load White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "49ba37ad-4c77-6538-4f6e-6a27a60bc84b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Desk Computer.mesh.nasset/Desk Computer Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "49c89eeb-8316-7e90-7b91-ba6c7f1dc636": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Desk Computer.mesh.nasset/Desk Computer.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "4b26d2cb-ac9f-4150-3fee-792e86053afd": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Corridor Window.mesh.nasset/Corridor Window.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "4b65a83b-aecb-0134-7177-268c4fcae951": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Side Corner Inner.mesh.nasset/Terrain Side Corner Inner Rock Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "4ba0f198-ee2d-7f04-9ef8-7cb58b177aee": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Rock Track.mtli.nasset"
-    },
-    "4becc019-1e46-64ea-73f5-abb61f5c9ab2": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Rogue_Enviro.tex.nasset"
-    },
-    "4e0d9ea3-2d42-bf78-1fa0-d2ba93fd1cc9": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Generator.mesh.nasset/Machine Generator.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "4f7fdca6-ff00-ca43-47f5-c729fd444463": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Side Cliff.mesh.nasset/Terrain Side Cliff.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "50dd3ff7-9b6d-b86a-8c5c-41a41238bf45": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Desk Chair Arms.mesh.nasset/Desk Chair Arms.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "512d08d9-9003-0fa1-3ca6-4fb1161626b6": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Train Passenger.mesh.nasset/Monorail Train Passenger Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "52893276-fe97-9b69-1532-43ec0d7a8d69": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Track Corner LRG.mesh.nasset/Monorail Track Corner LRG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "53143bb9-cc90-bcb9-c480-7c59d31163d2": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Train Cargo.mesh.nasset/Monorail Train Cargo Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "534ae3ae-f188-7f95-6bcc-453b699beeab": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Turret Double.mesh.nasset/Turret Double Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "53dc11ff-1465-e3ba-0c9e-cd2ab592ed70": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rover.mesh.nasset/Rover Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "545de191-f77a-cb37-44ef-7977c35b4eff": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Corridor End.mesh.nasset/Corridor End Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "54c145b9-e05a-0980-89b0-719c09fdee6a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Train Passenger.mesh.nasset/Monorail Train Passenger Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "560f1c5d-0878-b8db-1ce9-fd08a5ef0553": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Track Straight.mesh.nasset/Monorail Track Straight Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "564c7e24-281c-a903-7772-ed32a681885e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform LG.mesh.nasset/Platform LG Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "565e5f91-9d09-cccc-1b83-85cf470b6f5b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocks.mesh.nasset/Rocks Rock Track.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "5795c2c3-679c-7ac9-d22f-0473d26bbfca": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rover.mesh.nasset/Rover Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "5daa6fb6-7fec-1dda-a357-fd03d8feaad4": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Craft Speeder.mesh.nasset/Craft Speeder Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "5ef246c0-d767-c5e0-514a-8c4242b1e692": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Hangar.mesh.nasset/Hangar.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "60c3b7f3-e83e-eed4-9bc7-f54ac9e6cb41": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Side Corner.mesh.nasset/Terrain Side Corner.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "60f04952-be96-4d54-b86c-438a71cf97a9": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Alien/Jump_Start.anim.nasset"
-    },
-    "612482df-ad57-3456-6fc0-8fd0e0a46cc4": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Alien/Material Instances/Body.mtli.nasset"
-    },
-    "6175462f-cb2f-0761-ac73-088cc3f9becc": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Crater LRG.mesh.nasset/Crater LRG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "63ce1916-9601-ceb1-d9c6-a36221408c26": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Structure.mesh.nasset/Structure Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "64460e3f-1987-fd3e-6d3a-c33096c8af27": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Desk Chair Arms.mesh.nasset/Desk Chair Arms Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "64792251-c76a-8449-a356-8041be272e32": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Train Front.mesh.nasset/Monorail Train Front Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "64865d52-c6e6-c0aa-8e01-aa98a16fdda3": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Barrel Platform Railed.mesh.nasset/Barrel Platform Railed Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "675f918e-4310-16e0-be95-5b5af81d10e4": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Alien/Material Instances/Eyes.mtli.nasset"
-    },
-    "67965ef0-3b68-3d99-85d3-1dc277503845": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Craft Speeder.mesh.nasset/Craft Speeder Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "68bae0dd-ded8-85fc-8d0d-36a75235644c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Load.mesh.nasset/Monorail Load Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "6a1166ed-917b-66f0-d46e-7c507a89d3d2": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Mid.mesh.nasset/Rocket Mid.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "6a74121b-cd8a-f93d-e4a5-433594058e06": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Bones.mesh.nasset/Bones Bone.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "6b101b46-59fc-b0e3-565e-f42245356afc": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Wireless.mesh.nasset/Machine Wireless Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "6b8a5fb7-68ae-d994-a802-4de2581bcbaf": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Base.mesh.nasset/Rocket Base.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "6d66a02e-50b9-0eec-bb09-a946fd958e43": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Desk Computer.mesh.nasset/Desk Computer Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
     "6d797fdd-18d0-4b03-b90d-d83ea771d521": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Rogue Mars.scene.nasset"
     },
-    "6d849711-b859-fbae-6651-dcca9ffa7ff1": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Barrel Platform Railed.mesh.nasset/Barrel Platform Railed.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "6ddf5f57-a5a4-f1bf-e958-9c0b9932fb14": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Train Cargo.mesh.nasset/Monorail Train Cargo Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "6eb3716d-5b05-98e5-4276-c01e8204f115": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform LG.mesh.nasset/Platform LG Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "6ef6b040-e139-af00-6d21-b32879bfd7e6": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Side Cliff.mesh.nasset/Terrain Side Cliff Rock Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "6efd00ab-8b16-b059-adeb-8f843bc8cb0c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Road End.mesh.nasset/Terrain Road End.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
-        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
-        "path": "Assets/Physical Materials/Box.physmat.nasset"
-    },
-    "6f0d1b17-577f-687b-34c2-11a39c547085": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform High.mesh.nasset/Platform High White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "6fa5e758-0aaf-b5c9-59a1-01abb85f6a18": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Side End.mesh.nasset/Terrain Side End.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "6fdd182b-7091-17ac-3ba4-2ca16ca82a27": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Side End.mesh.nasset/Terrain Side End Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "7123bcd6-9b92-ca9e-71d8-f65a9266e07c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Satellite Dish.mesh.nasset/Satellite Dish.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "71947905-93bd-4e26-9eff-6be5475eb61b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "73b3a77a-b9ed-9fbb-a3b2-d8e1d2a806f6": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/machineGenerator LG3.mesh.nasset/machineGenerator LG3 Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "748038d2-d931-ed34-c658-c56569860e93": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Corridor End.mesh.nasset/Corridor End Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "748d7e19-0d66-27d2-29c3-6b30f0eccf3a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Wireless Cable Hookup.mesh.nasset/Machine Wireless Cable Hookup Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "74c487a6-98ad-f7fe-cd77-a39c5c8a2d0c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rover.mesh.nasset/Rover.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "751f531d-a837-604d-97c0-2202a2527419": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Train Passenger.mesh.nasset/Monorail Train Passenger Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "7526201f-e63d-5444-6733-4e045a46755e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Nails.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "76df7c52-41fd-b18a-479c-556d805d675f": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Rock.mtli.nasset"
-    },
-    "79217081-cc3b-a468-3785-8f023efd889b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocks Pebbles 02.mesh.nasset/Rocks Pebbles 02 Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "7bed0986-4614-a3e3-78f1-9683ed9c2dce": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Side End Flip.mesh.nasset/Terrain Side End Flip Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "7cc1a529-2328-1c2e-5b80-7c9c02ab09d3": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Desk Chair Arms.mesh.nasset/Desk Chair Arms Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "7e681cda-beca-e35c-0171-af761bbc0a16": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Turret Base.mesh.nasset/Turret Base.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "7f028110-71a5-7c63-e0a5-5f8dfac080e4": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Full Railing.mesh.nasset/Full Railing.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "7f9344bc-792d-33fa-1711-4d24450fd7ee": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Rock Dark.mtli.nasset"
-    },
-    "8069a703-bdfc-7542-bbbb-409f726bb794": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Stripe.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "80c6f587-c367-a7e3-4384-732f6b7c3523": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Alien/Material Instances/White.mtli.nasset"
-    },
-    "816c5679-75b4-95d4-7e30-26784357b82d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Side End Flip.mesh.nasset/Terrain Side End Flip.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "839b7de8-0e1e-bdcf-200d-d5743d7d1049": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Road Corner.mesh.nasset/Terrain Road Corner Rock Track.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "866b4b8a-08fd-dfc4-1f26-f5fe9e87bc89": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Train Front.mesh.nasset/Monorail Train Front.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "86a8729b-0528-38ff-cdbd-9bdbf067aa91": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Satellite Dish.mesh.nasset/Satellite Dish Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "887a1f34-2bad-4229-a799-00c112b422cc": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform Low.mesh.nasset/Platform Low Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "8ae8d502-38c0-2184-bbe3-4f8d78ec741d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocks 02.mesh.nasset/Rocks 02.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "8b721687-4d24-5fff-7ebd-e2924e3b0068": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocks Pebbles.mesh.nasset/Rocks Pebbles.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "8cf201d8-f8fb-48c8-983f-5a21b94808a9": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Alien/Run.anim.nasset"
-    },
-    "8e0af0cf-e8a0-4822-8d5b-e71862770e2f": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Alien/Jump_Loop.anim.nasset"
-    },
-    "8f149a5c-82e5-25da-9e1b-fae1907f3672": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien White.meshskin.nasset"
-    },
-    "90246ed7-8ffa-080b-12b1-1db4dfcac028": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Dark.mtli.nasset"
-    },
-    "90bbba48-756e-a38a-6e15-04e88382624a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Wireless.mesh.nasset/Machine Wireless Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "920c0ce0-9f6a-d77d-988e-e674c14dd274": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
-    "92f50560-dd1b-e274-1635-9eb06523505d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Corridor Split.mesh.nasset/Corridor Split Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "94079f51-7f92-207a-d44c-76e23fc2a8b7": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Wireless Cable.mesh.nasset/Machine Wireless Cable.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "94d8e9ef-4c0d-ffe9-e51b-d7d604d3e555": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Wireless Cable Hookup.mesh.nasset/Machine Wireless Cable Hookup Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "953d24a9-f540-5340-ea63-2abcdcec7d73": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Crater LRG.mesh.nasset/Crater LRG Rock Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "96e52271-e359-4ec0-a4ab-507d54315cb7": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Alien/Jump_End.anim.nasset"
-    },
-    "98013e1b-3720-8765-8ec5-9dbf5ca1bfa2": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocks 02.mesh.nasset/Rocks 02 Rock Track.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "9846d0fc-5305-8179-95ab-176e9439d4d7": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Road Corner.mesh.nasset/Terrain Road Corner Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "986861d0-530c-5366-baec-d49241411fc5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Corridor Window.mesh.nasset/Corridor Window Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "9a410083-d315-81bc-997f-9821318b10b9": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform Low.mesh.nasset/Platform Low.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "9b4dddb6-28ea-c351-2d21-ca7b7ead973c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Base.mesh.nasset/Rocket Base Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "9b4f652e-795e-75a3-d632-24724ac41ebd": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocks Pebbles.mesh.nasset/Rocks Pebbles Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "9c2ef94e-ea1d-752b-65be-2d03de0025f1": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/White.mtli.nasset"
-    },
-    "9cb66eba-9a16-bca5-ea36-a7086f8ee8ef": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Corridor End.mesh.nasset/Corridor End Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "9e289214-d6d0-6004-9a50-07208e312ed5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Generator.mesh.nasset/Machine Generator Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "9e79d62f-1b8d-fddd-072a-b75e2fc07a76": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Wireless Cable Hookup.mesh.nasset/Machine Wireless Cable Hookup.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "9f13638b-6e0e-490a-2d8b-ffc65ba3da0c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/machineGenerator LG3.mesh.nasset/machineGenerator LG3.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "9feef048-6dac-cb04-52cc-e5db0da2e4a6": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Wireless.mesh.nasset/Machine Wireless Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a081e4e1-ea7c-643c-9b2c-2cce0ea8ac50": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Metal Red.mtli.nasset"
-    },
-    "a0cbc9c4-d769-027b-8675-bf19992b99af": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Track Support.mesh.nasset/Monorail Track Support.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "a139034f-579d-fac7-8e29-64589717e142": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Mid.mesh.nasset/Rocket Mid Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a284fa70-3851-4c00-7459-43a3946e1395": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/SC_Rogue.scene.nasset"
-    },
-    "a2e7d340-7b97-3372-5129-02745486d16f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Corridor Split.mesh.nasset/Corridor Split White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a33249c3-0e2a-92f6-e7d5-59f06d8616b5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocks.mesh.nasset/Rocks Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a38432a9-3edf-4918-a4ec-10291d987861": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Rogue_Mars_Thumb.tex.nasset"
-    },
-    "a386dd7b-6303-2bd6-21ff-34deebd3d6e4": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Fins.mesh.nasset/Rocket Fins.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "a47e476f-1c04-14a8-a893-fe0f35f91019": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform Barrels.mesh.nasset/Platform Barrels Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a5861e0b-71f8-2973-8fc3-4097503e5e58": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Track Straight.mesh.nasset/Monorail Track Straight Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a6e972fe-c833-894a-223c-f89dd4b032a6": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform Barrels.mesh.nasset/Platform Barrels Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a6ffaa57-6daa-c3fe-ce44-c13f3568c551": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Train Front.mesh.nasset/Monorail Train Front Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a7789693-b9a1-7682-819d-66eac61240be": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Side Corner.mesh.nasset/Terrain Side Corner Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a8f298c8-5072-aceb-11e4-3cc840f3729d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Road End.mesh.nasset/Terrain Road End Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a9b42277-73ad-d0d5-ba34-f6cea3441ecc": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Mid.mesh.nasset/Rocket Mid Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a9f3884c-3026-4742-a788-9c1c91625bd8": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Alien/Idle.anim.nasset"
-    },
-    "aa4eb2e7-bdb3-c869-e2db-99ce36001900": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Full Railing.mesh.nasset/Full Railing Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "ae97068a-3e43-dc2d-aea8-e794e01f5b12": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Turret Single.mesh.nasset/Turret Single Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "aeab85df-c3c1-42f4-d962-32f565ed9ead": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocks 02.mesh.nasset/Rocks 02 Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "af68ea42-01df-65dd-3197-a7308494cfc5": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Alien/SK_Alien.scene.nasset/SK_Alien.scene.nasset"
+    "76009ab4-fcc7-46fb-9ace-2eacc19240a9": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
     },
     "b017b756-087f-4214-b093-592ccf6bbf80": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
+        "name": "Rogue Mars",
         "thumbnail": "a38432a9-3edf-4918-a4ec-10291d987861"
     },
-    "b0a98a86-c0a5-9c00-962f-04401167700f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Plane.mesh.nasset/Terrain Plane Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "b16e300d-e734-6a59-5857-ce4f3b7623ae": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Hangar Gate.mesh.nasset/Hangar Gate Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "b1b802c1-fc5a-4214-158f-ae16b4ba12a9": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Desk Computer.mesh.nasset/Desk Computer Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "b374db5d-73b7-ccef-bad8-29ee2874406f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform Low.mesh.nasset/Platform Low Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "b534470d-3bc2-46a1-36e2-7a5418f299e9": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Barrel Platform Railed.mesh.nasset/Barrel Platform Railed Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "b5c9444f-28e6-73ab-4572-880d85c26d2b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Turret Double.mesh.nasset/Turret Double.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "b6f4f65c-ae17-89aa-7e0e-42f2745497f5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Hangar.mesh.nasset/Hangar Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "b7aa72b1-62e7-9fd2-2185-f50ec7543461": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Plane.mesh.nasset/Terrain Plane.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "bb5d61b2-2477-902f-4d1d-f977a9981331": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Crater LRG.mesh.nasset/Crater LRG Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "bb654b6e-67f3-65c5-258c-141868ab0101": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Side End Flip.mesh.nasset/Terrain Side End Flip Rock Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "bb850203-f577-a93c-48c5-d31a1e0a25f0": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Eyes.meshskin.nasset"
-    },
-    "bf9a204b-ac74-7d7d-35da-8513e172aec6": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Nails.meshskin.nasset"
-    },
-    "bfcc152d-0440-4b2e-ce0f-dc548346243d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Wireless Cable.mesh.nasset/Machine Wireless Cable Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "c018df88-f9ce-97b8-bf04-f6193810a820": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform High.mesh.nasset/Platform High Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "c37e68c7-c334-443b-2538-1e9c775fafde": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Road Straight.mesh.nasset/Terrain Road Straight.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "c3fc696a-af4d-5b57-1fa2-e4fb6870d346": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Load.mesh.nasset/Monorail Load Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "c438a672-5dcb-de29-e923-cd1495b0face": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Ramp Road Mid.mesh.nasset/Terrain Ramp Road Mid Rock Track.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "c65523cd-f012-f53b-8c27-166f8a21b699": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Satellite Dish.mesh.nasset/Satellite Dish Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "c7859e80-acd7-b2e8-f0aa-65c574c15c16": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Train Passenger.mesh.nasset/Monorail Train Passenger.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "c92c1e06-cd91-3148-b5d4-ccf461f044e5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform High.mesh.nasset/Platform High Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "ca075ef7-5701-fb03-243f-4554388b52ce": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "cb84b5b1-4e80-93d4-3b1e-13f9b89a392f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/machineGenerator LG3.mesh.nasset/machineGenerator LG3 Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "cc7828d0-b58a-e70b-a378-2b40edb098eb": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Train Cargo.mesh.nasset/Monorail Train Cargo.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "cd331eea-54c9-aba6-d14a-4e02b27dcb03": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Fins.mesh.nasset/Rocket Fins Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "d0a3fd6b-bf44-388c-b52b-1cf83b3cbc87": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform Low.mesh.nasset/Platform Low Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "d1296d77-c8b3-cbe8-003c-0913938b7ae0": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Wireless Cable.mesh.nasset/Machine Wireless Cable Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "d1ba0a9e-5eb9-3a94-22a3-462287736ea1": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Wireless Cable Hookup.mesh.nasset/Machine Wireless Cable Hookup Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "d1cf5699-e730-576f-5979-1f5c0ef15594": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform High.mesh.nasset/Platform High.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "d3c92672-9d37-ecc7-3f78-0cfaa2590b90": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Body.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "d5b43608-f1ed-8aa6-2a57-4df3731734e5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Track Support.mesh.nasset/Monorail Track Support Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "d5f68a21-53a6-80ae-546d-0258c338c22c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Barrel Platform Railed.mesh.nasset/Barrel Platform Railed Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "d6d22ac2-6113-3da8-e7a9-ca1106acbcd1": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Corridor Split.mesh.nasset/Corridor Split.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "d887bc5d-1d53-dadd-ab21-08aaf0b2de4b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Side Corner Inner.mesh.nasset/Terrain Side Corner Inner Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "d9cade81-7cdf-89cf-0f2f-95e75037a04a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocks.mesh.nasset/Rocks.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "da6a4751-8ab4-8ab0-091a-1c6d12f47f28": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Road Split.mesh.nasset/Terrain Road Split.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "da841027-0488-6aa5-da39-239d8cabba87": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Side End.mesh.nasset/Terrain Side End Rock Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "db205877-c204-aefd-b66c-f272f36c8929": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Bone.mtli.nasset"
-    },
-    "deb10ac8-ebfd-51d8-12e2-a53af7090e8a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Road Split.mesh.nasset/Terrain Road Split Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "deb509a7-53b7-67fc-b1e9-bdd7c2da2abb": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Craft Speeder.mesh.nasset/Craft Speeder Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "e028a5cf-50f8-4c29-0840-332e126ca214": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Road End.mesh.nasset/Terrain Road End Rock Track.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "e0337b95-dba3-89ef-15f3-99be76a3b5cd": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Turret Base.mesh.nasset/Turret Base Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "e048512b-233d-e17a-2f71-8185fc6f811c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Top.mesh.nasset/Rocket Top Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "e091ef3e-f9aa-a6c7-c66d-ce4ffdb9bfb6": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Turret Double.mesh.nasset/Turret Double Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "e1367139-2dbc-1ca9-fd84-fb0f9ebb374c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Turret Single.mesh.nasset/Turret Single.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "e24adacd-d0ea-756d-5468-c82d8520d79f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Machine Wireless Cable.mesh.nasset/Machine Wireless Cable Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "e2d6b391-f011-bf84-f7c3-36404df76d8d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Turret Base.mesh.nasset/Turret Base Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "e3552a69-eb26-63ed-c072-415a0a5e288f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Ramp Road Mid.mesh.nasset/Terrain Ramp Road Mid Rock.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "e47be0ca-6218-727b-5431-29c93c4d9ea3": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Rogue_EnviroDiffuse.tex.nasset"
-    },
-    "e6bfaaf3-9bbe-95ba-42a4-43cd1fd765de": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Top.mesh.nasset/Rocket Top White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "e95160b5-9f01-a360-4319-88759e54333f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Player/Thumbnails/Player.scene.nasset.tex.nasset"
-    },
-    "ec43b7a8-b0cd-d7dc-0cf7-751d54d987db": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/machineGenerator LG3.mesh.nasset/machineGenerator LG3 Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "972a1045-d1dc-46b8-9d79-dd66d929172b": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Player/Player.scene.nasset",
-        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
-    },
-    "edd19e61-8e4f-9f54-7554-ea50d9e2fb2d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Track Corner LRG.mesh.nasset/Monorail Track Corner LRG Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "ef0ed364-6cd6-1528-f445-64efdcc5ab88": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rocket Base.mesh.nasset/Rocket Base Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "f32caa1c-bc01-82e2-d691-d92ef4eff586": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rover.mesh.nasset/Rover Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "f3ecdb20-81d1-6315-10b9-7ca3c638ca17": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Bones.mesh.nasset/Bones.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "f41725f5-f9f6-6197-ae90-f2dd219c3334": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform Barrels.mesh.nasset/Platform Barrels.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "f41e891c-695a-e4ac-ffeb-5f538d13a53a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Platform High.mesh.nasset/Platform High Metal Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "f942a2e9-45a3-709d-e718-ed52baceff05": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Track Straight.mesh.nasset/Monorail Track Straight.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "fa728d81-1bd7-f843-7feb-924563ae176b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Road Split.mesh.nasset/Terrain Road Split Rock Track.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "fc18aeb2-6a2f-5efa-56b7-9e0248c3826d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Corridor Split.mesh.nasset/Corridor Split Metal.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "fc928340-ff01-c052-7fc6-9dcaaea74320": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Corridor Window.mesh.nasset/Corridor Window Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "fd4d7a3a-5b71-e854-2499-781a298d81dc": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Rover.mesh.nasset/Rover Metal Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "fe3b2f19-483d-28d2-3917-acb88c438aeb": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Terrain Ramp Road Mid.mesh.nasset/Terrain Ramp Road Mid.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "ff4fadfb-593d-533e-a8ae-ff996d503bd9": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Scene/SC_Rogue.scene.nasset/Monorail Train Passenger.mesh.nasset/Monorail Train Passenger Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "guid": "1fe32ca7-fb46-cb56-0eaf-b40626c553a3"
+    "guid": "76009ab4-fcc7-46fb-9ace-2eacc19240a9",
+    "imported_assets": [
+        "003e23ef-2390-1c2e-ad8c-66d0e8ef4e17",
+        "01a227d9-6d9e-f73a-9734-5fa457801e01",
+        "01b2a1c7-b6e4-71fd-47dd-c081aa84b895",
+        "02a7eda6-7586-3a2b-c677-640d9b305daa",
+        "02c64470-5f26-bfe0-5dc3-6347159afffd",
+        "036a8ed2-5a4a-fc74-7809-7149327087d9",
+        "046f1337-cd73-31d6-81e8-d1f746d48a4e",
+        "063897cd-3bbf-06bf-a7ee-5f015bf82557",
+        "068a1468-a352-4587-eaab-a4590b2e6c2e",
+        "084251a2-fc2d-9c7e-a87f-60df2b72438f",
+        "08b1246b-9ef2-a57f-5869-33b04b8492ac",
+        "09080981-743b-425c-e6d8-3fdd6428d744",
+        "09655114-d40c-e883-bd12-f1c8943da2be",
+        "0b401424-e564-5b41-4463-c7591b1c9b0f",
+        "0b4f2fff-8d46-dab7-d21b-7c23b8308ad1",
+        "0b60c46e-ab05-623c-e8b4-2405be3f05ca",
+        "0c136a75-d075-0440-7931-9adfe04587db",
+        "0e224a65-61c7-4b04-916c-cbf93b37996c",
+        "0e883f9b-a2a5-00a3-9e3b-7acc6ea27228",
+        "0f58dc34-6dcb-4b1b-0850-3194f64c3195",
+        "1054001c-5cf8-3d85-9742-b5a164dfa570",
+        "111d2b63-bb95-ab8d-78da-f2c040ca2cd3",
+        "12500ca1-4502-039b-1a4b-019c2e1e9186",
+        "12b4de9f-5f6a-b3ab-4ed4-231a51b78439",
+        "13e940e2-262c-5ca9-5195-87a790b76be5",
+        "14582f21-9e74-3d13-3767-4c0c50dfc7fe",
+        "152dcf00-0531-baf4-ead4-bc417292a76a",
+        "1738a80a-8e17-d63e-40a0-bd152b27a0e7",
+        "17a6e222-47bb-9e99-d2fd-f0efd638b6a3",
+        "18394a83-ce9d-e3f1-2511-486b2c2f9a65",
+        "193903f3-032a-aadc-c77e-99b9b91b56fa",
+        "19afdc6d-2151-711a-a77e-c7347385df7c",
+        "19e5729f-8674-9a98-6358-de0e4e7457c8",
+        "1a082752-35e4-1841-602c-1259af1e668a",
+        "1b7fb589-a3b6-e8fe-2257-f8d2b5ad0973",
+        "1bc44dad-a815-0160-b46d-c9d7a32ad2a6",
+        "1bd627c8-2e7c-d22b-a2fd-ba6b79d8b8cc",
+        "1d0add08-cf06-1e51-4246-5cbf72e6ec81",
+        "1d4f4cd4-bf1c-0484-b09c-95289b201d6c",
+        "1d5ff6b8-596d-caa4-6daa-c2f3fc56d9d5",
+        "1ed958d9-86fd-5438-5367-02eb2a511744",
+        "1fc1e148-3e1a-6dec-4839-4b3dd9ac3185",
+        "21d50b94-892d-308d-4c37-5b9ae63ad32e",
+        "22bfee93-2955-63af-070f-8c83af7c16d7",
+        "2333c683-6192-2e62-f042-ca14a3ffac78",
+        "23784834-bd02-c9ea-b754-3aad6108c29e",
+        "23923104-1f56-d4c0-39c1-2d379b524a81",
+        "244cee56-9b02-7fa8-99ab-cd2b089259f8",
+        "258a17cd-d4b1-e329-a8a4-41de303f2c1a",
+        "25caecec-3383-39e8-1975-540ffc1b6964",
+        "272e06ea-1632-3164-87a7-59aa60fa0efa",
+        "27897906-0c10-aa9f-f737-50074c44281a",
+        "291d3833-1816-4bdb-a4db-a65639fe7d39",
+        "2944e4d2-3b4e-9906-89f4-b43c5d9c2fcb",
+        "2962d4af-cab3-6f50-ef72-fd5e11452752",
+        "29a9d826-d2fd-dfa5-85f9-f9100db55067",
+        "29b411b6-5133-ee5d-9654-988280f484e3",
+        "29c9e618-b209-c8fb-476b-3314bb7421e1",
+        "2ad5495a-a5b6-8f39-cdd7-8f0031f7f687",
+        "2cbae95f-4a26-4258-c55a-a320c44b72d0",
+        "2d0d9916-c90e-20aa-bfb9-d1d47712d5dd",
+        "2dec4e8e-4014-0923-70c6-9dba8e5c002c",
+        "2e3e6ed8-7850-1e91-18f3-bf4461712240",
+        "302863ff-63a2-089f-f76c-4032603451de",
+        "31e77eb6-9dd1-ecec-7f2b-de18f97521c9",
+        "3279d3ac-6324-e0d3-1ff4-afbc7bd2e122",
+        "3298878f-6dce-f638-32aa-227b986082b9",
+        "3298c54e-e042-4cd0-34fa-96173fbe7df4",
+        "32c6a664-9150-b443-2497-a30cfb8f1c43",
+        "330a62ee-2704-23cd-de48-ca3fb1c601ef",
+        "3371983d-a4a4-6271-1a83-ef1b792a2241",
+        "342537a6-2a11-6fee-3a86-0c36208ecdfd",
+        "34d41b8a-520c-475e-6c79-97491eca453c",
+        "35bb6f33-4c37-0eb7-0b46-fbd865be41d9",
+        "360166dc-dbed-83bc-a5bc-e0f3dbb34ea5",
+        "37e1265f-c1e1-db1c-71d3-d8f953d2b9db",
+        "381b3a85-d944-56da-20bd-dcf21b4521a4",
+        "3999c3d0-4912-0bbe-8096-6e192e5c3200",
+        "39c3d722-9164-b8f0-aa55-37e887e467a7",
+        "3a3c25e2-2489-0483-ef78-90cac682f543",
+        "3a521760-4d2b-f1de-cd27-58d5d00c42a6",
+        "3c869cff-0ca6-6a83-ddb2-96d0a1a37abb",
+        "3d5c353f-fc00-a5cc-59c4-662804618393",
+        "3d9becb1-7c03-4ffb-bf9d-212fbaaefaae",
+        "3e510824-a13b-8d25-542a-55ec250994c2",
+        "3ec92554-6337-cbb6-9d55-1e6d17d09d25",
+        "3f01f3c2-7f59-8e1f-4dda-735b43118836",
+        "3f11ad73-8d5e-670b-bc75-a407bae4e9d9",
+        "41760291-b588-90b4-d44b-7cbdd28e58bd",
+        "41974eff-e939-31d2-1632-9146eb4e408d",
+        "427eaf2c-d134-1136-fd86-cddcef4b4c55",
+        "43133ce4-7163-16cd-a1da-0c141e3b76fd",
+        "4497a048-a45d-c5b2-1880-eda037dc84fa",
+        "453e4aae-3d22-ffd5-d22c-24c22db913bd",
+        "454b1f79-6c33-86e6-376b-ab86d9004795",
+        "4569786f-9fef-fa03-3da1-cc2389b5a18e",
+        "46f6f0a1-2a0a-f3ea-d212-cb54d2db131d",
+        "489d0b2f-aeda-1f73-e233-4ac682a70e90",
+        "48e04bd8-7ce2-b498-dbe2-0b95b63ba4c3",
+        "48f2dcc7-fd50-59fa-81c8-c6d716d88503",
+        "498e305f-ee22-107e-b281-6390c3691744",
+        "49a8ffd5-3b03-62ac-aaf6-2a34ba32c0b2",
+        "49cd5766-9da6-3a3d-0ec0-34664264d0d4",
+        "49f0e77a-6d7a-7e36-eadc-0a0e8be50b5f",
+        "4a504788-37e8-28a8-1211-d28d6ea4b8bf",
+        "4bcce232-404f-84ff-1f07-8260ab79dc00",
+        "4becc019-1e46-64ea-73f5-abb61f5c9ab2",
+        "4d41202a-3131-b7ff-7a6d-d13621b996c3",
+        "4e7cada2-f15a-7810-1c9e-bef588b5ce46",
+        "4fa82977-fcff-9bb6-3a6a-7b829fee04b4",
+        "52f052c1-12c1-cbc6-1282-ff57bc6c3800",
+        "539738f4-9ed4-7c41-0ff5-753a38485e35",
+        "53adc506-0803-7232-8bf6-c0592fb036bc",
+        "547887f0-d8ef-1ee1-fe28-ac59c76a2072",
+        "550d3e9d-a223-edef-bfd3-6b287fb95da9",
+        "552db650-983e-f343-b276-1dabdcd5fd2a",
+        "56ad54ec-b7f5-2daf-8bf6-1ddfefb59fee",
+        "56b65ba8-c115-a352-c7d1-590a2334cbdc",
+        "58351773-dcbb-f76b-4128-e9df2bfe1273",
+        "597e7df6-fe98-adb8-0672-8a184095bf3a",
+        "59de9fd2-3b74-d8de-c68c-8401e750d6e5",
+        "5a711512-8d20-e5f1-a95d-8e589a2d7f79",
+        "5a859f2d-6236-959c-2493-b2eedc9e773c",
+        "5a884ef2-d313-6792-df40-d4872f533084",
+        "5b6b7ee4-d8df-9536-299b-3557dabd5555",
+        "5b76b9f2-95cd-0764-3300-aa97237ef840",
+        "5bb58fc5-eeed-bb05-09cf-6f8cff2adc7e",
+        "5be33cfd-95c2-7a4a-3d37-1f547af3077d",
+        "5bed9e36-4530-6842-358b-995d81cee5da",
+        "5cf0e5fd-1fff-821f-65b1-db15ca07d480",
+        "5d0a3605-21a8-ee34-0873-7a750ff27c91",
+        "5d116bb7-2d74-370e-5229-32d99e691046",
+        "5d796642-7074-30c8-02b5-f753583d6560",
+        "5dffa076-8054-2986-5b14-8545f8592e25",
+        "5e0354f6-85bd-020d-846b-ba6e291cf786",
+        "5f05f767-1aa0-3cf5-4d77-42518ac71ad2",
+        "5f1ec679-997c-139f-e4c0-b55c0378d0cd",
+        "5ff32be0-f4cc-4e25-e33a-d95700ffba26",
+        "60f04952-be96-4d54-b86c-438a71cf97a9",
+        "612482df-ad57-3456-6fc0-8fd0e0a46cc4",
+        "617eb35f-d408-b0ce-d4dc-2afdec8a060a",
+        "61fdeb2d-40ea-a283-e6ec-15c4389e0c5b",
+        "62c20b15-8fc8-e24f-6dbd-97351952318e",
+        "6434529a-c648-b405-d658-da19ee5e7278",
+        "646b6931-38a0-c09d-226a-1eaaf29f02d7",
+        "657636d6-2b57-b867-9dcc-4468762758cf",
+        "657c15fb-b2a6-5162-188a-10c1cf8a68e3",
+        "65d83740-fbc1-b1eb-5d2b-3c12807dc147",
+        "675f918e-4310-16e0-be95-5b5af81d10e4",
+        "69ce095e-babe-32af-8417-fba4c161a7ee",
+        "69ee6d8f-a46d-1df6-90da-943c3490b2d2",
+        "6b010141-03d7-7ac2-96d1-60ae3b5eb796",
+        "6b25935d-9a24-2e21-2c96-46a82f4a8b33",
+        "6bcedc0e-e2d7-9f94-f887-675d0e7a9cc8",
+        "6bf513c6-08fb-d136-6ecf-4f24c9fdcc13",
+        "6c713ee1-8ad3-29d5-f5e7-eeb74feb005a",
+        "6c92f34f-85a3-5175-0c5c-9b69b09c1f68",
+        "6d2e365f-d050-2e70-0943-467d925d7df9",
+        "6de71838-d607-a510-f877-1ccf0688c98c",
+        "6e483436-9074-c8f3-b303-abf9ade3a7cf",
+        "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76",
+        "6fcf331f-c019-5ec8-712d-ac21b0d2c400",
+        "6ffeebd9-9537-dc6c-f25b-a8b8547aa103",
+        "702534d4-be09-8562-2130-ff7bda2f8f8b",
+        "7100563f-9ed1-329b-d597-b37ae19946f3",
+        "71947905-93bd-4e26-9eff-6be5475eb61b",
+        "7247810c-9f3a-41d2-1ef2-31d6de794b83",
+        "732bcbed-6912-133f-354e-b6adc286861e",
+        "73b0baa4-c76b-7d45-f7fe-801d3a95515b",
+        "73d665a3-7496-f4f1-bcca-4487a6e6d373",
+        "7501bfa4-dbd3-a705-464a-4b518641db9e",
+        "7526201f-e63d-5444-6733-4e045a46755e",
+        "766697d9-e11c-edd9-2c2a-0814a7814616",
+        "76d89861-f3c5-6f0e-bf5e-1c5cd75cc5a8",
+        "7732682a-b66b-27d1-6401-721e0bb7f35d",
+        "7786d63c-3534-59c6-4f21-0aea9df5cb99",
+        "782ed8f1-ac3b-1aa2-fc6a-35c4a96b0187",
+        "78d33208-47e4-571f-5fa2-dc9e11ca3b9f",
+        "793c1a17-be55-b80d-13f5-29dbd203d450",
+        "79b88217-d105-9ca2-3800-835e5614a416",
+        "7a7e6de3-f646-87b5-b965-8b8f6f4feb78",
+        "7abfecb5-fa70-092a-6d35-292d4082381e",
+        "7add73c1-39e3-9ab4-748b-bb7458213b96",
+        "7e0571b9-8cbc-779a-6b4a-251b389f7c1e",
+        "7ea4c912-e1ab-3e44-8c79-276ff859a16d",
+        "7ed5d857-cb46-7e95-2b62-fdc7b0dba6ae",
+        "7f3d7071-0a32-a868-e744-ec39f3ceacd7",
+        "7fbcd13e-ce87-7c69-7e46-36a4137a2250",
+        "8069a703-bdfc-7542-bbbb-409f726bb794",
+        "80925b5e-92f6-2475-43d1-85e1294d7a15",
+        "80c6f587-c367-a7e3-4384-732f6b7c3523",
+        "810d1092-70cb-23d9-2c24-e4c06247e59f",
+        "81798e95-8116-3945-d9d1-4dc61c3eb96e",
+        "82ab7a67-ca82-24ea-3dd4-f2432f55b3cc",
+        "82badabd-b2ee-78a7-f599-b90dbbaa9ac1",
+        "82d3a098-3ce1-fb33-c797-dd9e66f77d51",
+        "835ecf64-fa3d-5242-1938-20440b47a02e",
+        "83d12f54-982a-0d59-7cfb-de83e16b6ab0",
+        "83da3142-5b91-6281-d343-25e2b79422f9",
+        "85427cee-6c61-4853-eaac-63075d990b32",
+        "85b34377-f84a-74f4-edd1-e24cd3628b7c",
+        "85e03076-f50c-eb96-38fd-bb5dd5f655f2",
+        "87071d7e-7a87-0c60-9491-dfb2e0390253",
+        "871fe208-6ec6-8211-8c21-3c156108a413",
+        "8754aa81-bc81-8091-f7ed-a37b867502ce",
+        "8854ac43-7d3b-8a42-5862-ebd35078b808",
+        "8927c8af-9f7e-a7b9-701e-c05a1fe4d9d8",
+        "89514fc9-f758-7fec-8203-aef18538756b",
+        "8a08c261-37f3-bd80-47da-f6aac6458a71",
+        "8ab733f6-e43e-3332-04f4-3c92fbf250ff",
+        "8bc7fc76-c707-8b5c-81f8-496c5f722b0d",
+        "8c28cb1b-d236-44e5-b5fc-fb3e62163a42",
+        "8cc0b3f5-e359-f477-922e-598afdab8bf8",
+        "8cf201d8-f8fb-48c8-983f-5a21b94808a9",
+        "8e0af0cf-e8a0-4822-8d5b-e71862770e2f",
+        "8ebc7e5a-80e7-4f18-078a-7209b63d0c1b",
+        "8f149a5c-82e5-25da-9e1b-fae1907f3672",
+        "9123c304-8c58-a96a-7d00-ecfb7cdd3f75",
+        "916f0f56-b412-7351-cd1d-1c305a358007",
+        "91f8a16e-d727-afba-ebe5-fee0e0ae827d",
+        "920c0ce0-9f6a-d77d-988e-e674c14dd274",
+        "925bc9ac-16bc-9d16-2efe-76fd36013805",
+        "92640b16-00d9-daea-7849-ddd549461c99",
+        "93121733-5bff-3016-c8ce-fa2058d47153",
+        "9346df12-bbc8-5351-f03f-6a217b4e50dd",
+        "93549d5e-ebb7-0283-4933-e71356fcb38b",
+        "93a13eaa-d966-81ad-2973-88a09e55cc05",
+        "93ea2deb-d87b-aba3-700e-42e097b8e7d2",
+        "9424a795-cd14-8652-9cfe-6967a39b2b56",
+        "95a23500-ef10-5a1b-eebf-57877a75c3f3",
+        "95a36b4d-7978-2f43-ff63-67e83aed5b9f",
+        "9693c74b-7dc1-15cc-a489-6b6a99824bf8",
+        "96af132b-c255-0091-c5a5-bd7073234a57",
+        "96e52271-e359-4ec0-a4ab-507d54315cb7",
+        "96fdf232-26df-3204-0d69-537150bcc935",
+        "97038a94-764a-378f-ca7b-219aca36cf98",
+        "977be94c-633d-23ca-ca3c-183b08838094",
+        "980d7744-6f37-0182-1c7e-ca8e2413617b",
+        "987c45b4-4929-ccfc-face-940f683e526d",
+        "9943e6dd-f2f8-cad9-bdbd-71741f1a2c79",
+        "9cf77d70-d09f-396c-f8d5-3a441785deb9",
+        "9e2760fe-f87f-6918-9d52-af9559261dc5",
+        "9ec490f7-f9ed-09df-3556-727be147b0a5",
+        "9ee13b7b-cfbc-9c4b-4258-979c38a3ad9b",
+        "9fe28bfa-3b77-46fe-a754-3cfb0bd8fbf3",
+        "a0596788-9f23-0e52-3032-2009d72f28ee",
+        "a069ef0f-3327-3fee-bd2a-98a61400530c",
+        "a06f8f1c-4e4e-5fd3-8e56-10fc9e5d5b76",
+        "a20ac10a-d448-3942-ee7e-30a3f340c214",
+        "a38432a9-3edf-4918-a4ec-10291d987861",
+        "a3f76504-9913-8b1f-ec21-2cbcfd3a757a",
+        "a428cade-35d4-8ba4-21a4-477e175ccbaf",
+        "a6d30af8-e5af-2400-3633-362cb44e9018",
+        "a9152661-5a63-cea3-345e-3fe49d4b8649",
+        "a9212ba2-c243-c721-4578-f82a664da92d",
+        "a95a00b4-2c80-d6c4-6f9c-1f6af75f267c",
+        "a9775139-a3c4-63a0-0b0c-2cf6f98204fc",
+        "a99252c6-7e25-4e2c-f3c1-6e30caf7aa2c",
+        "a9f3884c-3026-4742-a788-9c1c91625bd8",
+        "ab453f48-280b-ff57-f5f9-87d07ed26d36",
+        "ace27ed7-5c3b-8af5-f261-915ae11f7aa2",
+        "acf2cee9-b27e-4931-4eb3-30ce90278e18",
+        "af68ea42-01df-65dd-3197-a7308494cfc5",
+        "afc5f28e-654d-7797-b87b-06682ee9519b",
+        "b031c33e-1e11-7519-d484-3b6ba9585632",
+        "b154e3a8-e75a-c80a-177d-43a0ca901c72",
+        "b2bd75bc-34da-6ab4-96fb-485d3f4f06e2",
+        "b2c8715b-697d-1ffc-dd68-16afd2bb64c8",
+        "b2ea9aa8-e7e8-2173-255b-7ee8f78a8163",
+        "b3489a54-7333-4402-901d-8f9c34c30431",
+        "b34b764a-3df5-7d6b-f7c1-9ddc7fd3e533",
+        "b3c475af-252c-0810-fd96-c3f966c2a73a",
+        "b43e384f-c54f-b168-35a7-8754fcf938de",
+        "b4ab7844-5dcd-c4aa-365c-67dfceabba45",
+        "b4f6849f-3fcf-1827-64f9-0c9af0e4ff72",
+        "b5bf4ce2-4094-d752-cb1e-8aabf3bb69c8",
+        "b5c638a8-5679-f7da-e6f0-937ac17ce336",
+        "b6a8465c-3825-6e40-3ee4-9a5ee97ab097",
+        "b7139b5f-8065-a89c-17db-4aa45d43ab4d",
+        "b7946fed-68b9-2087-68f3-a43b99942f43",
+        "b8201461-574f-c641-a8a3-ad6935c87b95",
+        "b82565f5-0e82-fb04-1277-8aa110ba4c83",
+        "b9ccb190-869b-6870-8642-9b8de18e3988",
+        "ba500b3c-0455-0679-5432-7f35c5e433e4",
+        "bb0a2326-980b-afca-46d7-d9355021ad9b",
+        "bb850203-f577-a93c-48c5-d31a1e0a25f0",
+        "be634cb2-ec36-7a82-641b-bca62dd74d12",
+        "bf29f160-176e-ed8c-cdff-b81c9b739edc",
+        "bf5ef076-089b-49f4-8530-b2129925edbd",
+        "bf9a204b-ac74-7d7d-35da-8513e172aec6",
+        "c012c99d-483a-4402-600f-9dcbbe86de42",
+        "c069cd70-6f66-f47f-4438-051038d56d44",
+        "c07aaee7-f07a-8baa-3336-ad88af402100",
+        "c1ac9bf7-2446-fc1e-6c20-60781531d052",
+        "c2871e29-d485-0a53-bd43-d797be047951",
+        "c37ada0c-7df1-9b91-0852-6b0f47159abd",
+        "c3b77add-7197-881e-456b-b0bd6b4a8525",
+        "c46d0e16-5eb1-d461-9ac6-c6ac9eb00333",
+        "c4ac7d86-26ca-aa74-7ca2-7473a6af691c",
+        "c531a498-2795-9b82-825c-bfeb5548b043",
+        "c58eae1b-1e96-45f8-c12f-8ebce254e57f",
+        "c6e462e8-b4ae-5acc-5cb6-cfa40b7d5b35",
+        "c734c375-3522-9a99-9692-3a1488f39279",
+        "c8649b8a-d101-8610-2481-ef4976608996",
+        "c87a020a-6070-e708-05a7-a3a37d8a3dc5",
+        "c87f3771-78e9-f4d9-aa50-62d4bbc07960",
+        "c8c8ef46-5ff0-c234-bfcf-b388475c4d3b",
+        "c9276d5a-e0c0-ca54-a4f5-1352c0ac9db1",
+        "ca075ef7-5701-fb03-243f-4554388b52ce",
+        "cbd6b39d-e329-956e-e158-eeb08419c50b",
+        "cbdfb829-e9aa-1a71-1794-305d6f0b1a65",
+        "cc004c6a-4cf5-595d-62a3-3c5d6bf02bda",
+        "cd3da065-3417-e92d-b2f0-2269fc66b3e3",
+        "cf853eed-3d8b-8df8-bdad-cd47b71fa524",
+        "d001957b-a5af-bc6d-0f85-0959dab4c9f1",
+        "d001e9f7-9347-f46d-d9d3-e276ff615052",
+        "d345367a-d0ba-c5ed-cf0a-5d174be58a42",
+        "d36a6de8-878a-0158-537e-2b575c9a9daf",
+        "d396c68f-6c5e-1352-47de-70d853c14418",
+        "d3c92672-9d37-ecc7-3f78-0cfaa2590b90",
+        "d5ba2e46-9842-bde6-2049-0daf45f91a6c",
+        "d6af7cc3-a521-e582-b5b4-f35e247a514e",
+        "d7eb166d-9a0a-e357-40f7-ba825ffc1c23",
+        "d8c692bd-060f-bc32-3d20-6c9e2178e6e0",
+        "da127ea5-403a-4a9d-b709-911e9243f932",
+        "da8936eb-b630-9352-ba0c-bfc7f7eb5d58",
+        "daeca0d0-91bd-9500-af83-2ef8e96cff54",
+        "dc19eedf-a15a-111e-5233-c0d8d95bf44c",
+        "dc3d3b1b-5dc1-37b6-ffb4-461b207877e2",
+        "dddfed2d-3123-5c30-4efe-5b32569ab86a",
+        "debbd74c-8411-427d-b37f-c27dfd0fa41a",
+        "df8d5011-5de9-cf87-7fe0-5ab8bc39a33a",
+        "e2027467-79b6-2d07-4934-fafc49ac596a",
+        "e3c16d53-a3ee-422b-83f1-ae22d0b82c01",
+        "e3f97882-ea62-8bfe-e729-4969ab6d0678",
+        "e4345e9e-4e51-f881-99ba-5c2cc5558823",
+        "e47be0ca-6218-727b-5431-29c93c4d9ea3",
+        "e4f63ad6-c208-bd53-c7e5-b1910bf560a6",
+        "e5a58bfb-a7b3-38ed-4789-138b7edad4cc",
+        "e5cfae7d-1751-2bf8-b652-dd4e7cd7bad8",
+        "e65720bf-122c-f5a3-9a51-3f26bdfa3d34",
+        "e669a521-10c7-d9d6-eacb-3a9c173c7d8e",
+        "e7220dff-a366-9d80-fe49-450b9207c0c1",
+        "e72ba777-2dd5-6525-5695-be8e1bb9bd2c",
+        "e7a754db-2e09-3208-f5b8-a35a7c659b2a",
+        "e7d724ea-62ce-3986-4cb4-be299427db0a",
+        "e851ea0c-c5b9-d54f-7f09-63df68bc2f24",
+        "e87cbbbe-24bc-8903-37e8-eb53de844877",
+        "e996d3c7-005b-35c7-3e70-068dae0720c8",
+        "ea198e98-48e0-56ea-1fcb-56a56a636212",
+        "eb035470-906e-52f9-5524-51ba01e5f4e5",
+        "eb2d7be6-b231-b7db-e459-b8dd1a13fe42",
+        "ece236d3-03b8-bdb3-971a-fa332272bb22",
+        "ed5b17a0-9e42-2642-b325-46382adeb325",
+        "ed8f3bc6-cb2f-e839-faeb-b728ae8c3923",
+        "edf22b79-c6e5-edf2-ab58-04e45df4bcc8",
+        "eeb21338-04e3-9cf3-14f5-a7a48e177c20",
+        "eee8e4f3-7228-61bc-0e57-2cde396ef9f5",
+        "f0c25019-3f1b-af0f-52e7-7d2e5a3bcf74",
+        "f1f923f3-8c4d-b297-baf8-e3c7861c3f1f",
+        "f25a67cd-8348-5fcc-33fc-4ac2486c7578",
+        "f2738039-31d6-c491-8c0c-fecc111b0516",
+        "f60db358-7ba1-0394-4d46-cac73afa4f9b",
+        "f6195571-65e4-43c8-ab96-08a837d2a3a8",
+        "f65019c6-3003-862a-7300-cdc0e9c0e9ea",
+        "f6ea5970-4174-9428-8993-2838e66665d4",
+        "f7115f46-5296-4e34-7df1-9818eaf1eded",
+        "f751f831-0f00-b6ae-e0ef-af09e5831dad",
+        "f75f6e46-d69c-b51a-b408-8fbe70f05308",
+        "f7f82ba0-790d-d3da-8684-6471035edffa",
+        "f8cf2ef1-27e4-eb8e-1865-957e24deb5a7",
+        "f9c98566-864c-d001-f2f6-f0c3fd46860c",
+        "fa666eb6-31aa-2601-c7d8-f70d1b8fe924",
+        "fb04eeea-8274-bb5b-1b21-a9ab3fd91780",
+        "fc8d7bd2-b322-906a-729a-588e8190e358",
+        "fe07ddd1-8e42-53b1-1292-1b304858ae63",
+        "fe371605-7d22-8b15-8172-7f251da24de4",
+        "ff31d630-ee57-7b57-e24e-9cb4fdf68b43"
+    ]
 }

@@ -1,6 +1,7 @@
 {
     "name": "Rogue Mars",
     "guid": "b017b756-087f-4214-b093-592ccf6bbf80",
+    "database_guid": "76009ab4-fcc7-46fb-9ace-2eacc19240a9",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -14,6 +15,7 @@
     "thumbnail_guid": "a38432a9-3edf-4918-a4ec-10291d987861",
     "default_scene": "6d797fdd-18d0-4b03-b90d-d83ea771d521",
     "source": "Project.nproject",
+    "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
 			"type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
