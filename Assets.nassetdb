@@ -21,6 +21,14 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Audio/SFX/Character/Landing Dirt 4.audio.nasset"
     },
+    "018fd84d-ecfa-4079-a96c-04f9f75c0b6d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Death.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ]
+    },
     "01a227d9-6d9e-f73a-9734-5fa457801e01": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -43,6 +51,13 @@
         "dependencies": [
             "8ab733f6-e43e-3332-04f4-3c92fbf250ff",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "021f33b9-9a73-6796-799a-78cdbca206fb": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Alien/Material Instances/Eyes.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "02a7eda6-7586-3a2b-c677-640d9b305daa": {
@@ -328,6 +343,16 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Audio/SFX/Character/Jump 5.audio.nasset"
     },
+    "12b4b7cc-d553-7d13-cdac-441c42a062c5": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien White.meshskin.nasset",
+        "dependencies": [
+            "ba37628f-765a-fbaf-039b-89c08fbcded6",
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+            "2c4448e2-7d5d-e5a7-6c41-3715fc971646"
+        ]
+    },
     "12b4de9f-5f6a-b3ab-4ed4-231a51b78439": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -356,6 +381,14 @@
         "dependencies": [
             "7f3d7071-0a32-a868-e744-ec39f3ceacd7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "14dc563a-b9f1-4793-a25c-05ab487fdd1f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Run.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
     },
     "1738a80a-8e17-d63e-40a0-bd152b27a0e7": {
@@ -421,6 +454,14 @@
         "dependencies": [
             "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
             "5d685bab-7572-4e3e-f9e9-62407c9640c8"
+        ]
+    },
+    "1b20f143-f5de-4700-a328-4b880548dfd0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Roll.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
     },
     "1b7fb589-a3b6-e8fe-2257-f8d2b5ad0973": {
@@ -707,6 +748,13 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Pfx/T_Blood_D.tex.nasset"
     },
+    "2ac34ad7-d032-06a4-98d0-e4b078b536ec": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Alien/Material Instances/Stripe.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "2ad5495a-a5b6-8f39-cdd7-8f0031f7f687": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -726,6 +774,13 @@
     "2b62e29e-4da1-a4c6-c5aa-5e40262f4c7d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Rogue_Mars.scene.nasset/Office Chair.mesh.nasset/Thumbnails/Office Chair.mesh.nasset.tex.nasset"
+    },
+    "2c4448e2-7d5d-e5a7-6c41-3715fc971646": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Alien/Material Instances/White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "2cb6cd32-b55d-2215-4d39-f8d4c58a1598": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -876,6 +931,18 @@
             "e87cbbbe-24bc-8903-37e8-eb53de844877"
         ]
     },
+    "32daad25-9a06-13a9-54ca-698faaf1a9cf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Eyes.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "021f33b9-9a73-6796-799a-78cdbca206fb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "32f38eb7-c339-d769-1b29-ace8aecc24e6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Rogue_Mars.scene.nasset/Rover.mesh.nasset/Thumbnails/Rover.mesh.nasset.tex.nasset"
@@ -951,6 +1018,19 @@
             "1d0add08-cf06-1e51-4246-5cbf72e6ec81"
         ]
     },
+    "34e39f80-6438-4a19-abd0-2091f5066700": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Alien/Rogue.scene.nasset",
+        "thumbnail": "f1e8f9de-a20d-4c45-a0e7-dab43a0c0eb4",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "abc6f9bb-d521-dda2-87bd-9986bd3abb80"
+        ]
+    },
     "355cc3ac-1150-b923-5e22-70a8dda678e2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Rogue_Mars.scene.nasset/Road T Junction.mesh.nasset/Thumbnails/Road T Junction.mesh.nasset.tex.nasset"
@@ -980,6 +1060,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Audio/SFX/Character/Footstep Water 4.audio.nasset"
+    },
+    "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "38bdd4b3-001f-58d0-8af3-a3dcb40a44c4": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -1066,6 +1151,26 @@
             "65d83740-fbc1-b1eb-5d2b-3c12807dc147",
             "78d33208-47e4-571f-5fa2-dc9e11ca3b9f",
             "f1f923f3-8c4d-b297-baf8-e3c7861c3f1f"
+        ]
+    },
+    "3d9278df-7c2a-0c07-13d6-bf3129aefdee": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Glass.meshskin.nasset",
+        "dependencies": [
+            "e4a753d5-0a00-1fc9-e07e-26de279a40ae",
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+            "a2d66a82-e2c7-e70f-1bf3-f3d9cb02ac0a"
+        ]
+    },
+    "3dbe4828-f902-f182-2202-65374cdf737a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Stripe.meshskin.nasset",
+        "dependencies": [
+            "e610081e-8f74-9a05-4b54-eef6d4b28cb6",
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+            "2ac34ad7-d032-06a4-98d0-e4b078b536ec"
         ]
     },
     "3e510824-a13b-8d25-542a-55ec250994c2": {
@@ -1226,6 +1331,13 @@
             "7732682a-b66b-27d1-6401-721e0bb7f35d"
         ]
     },
+    "48d0d3f5-399e-f04f-eba7-4cb7df44d1ed": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Alien/Material Instances/Body.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "48dc185a-a666-4092-a4c9-204cc379b942": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Pfx/Laser Dot.mtli.nasset",
@@ -1335,9 +1447,29 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Audio/SFX/UI/Countdown Down.audio.nasset"
     },
+    "50f5822f-5fcf-157d-9393-eb6410a99231": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Nails.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "617630b0-1ca8-98df-caee-21d056fcc01a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "520c0dba-8d9c-782b-7020-98886a39d530": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Rogue_Mars.scene.nasset/Landscape 02.mesh.nasset/Thumbnails/Landscape 02.mesh.nasset.tex.nasset"
+    },
+    "52b5626a-268a-48f0-b657-92292a174d5a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Punch.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ]
     },
     "52f052c1-12c1-cbc6-1282-ff57bc6c3800": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1663,6 +1795,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5ea972d7-fc00-4c8d-a825-68efce5410b6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Clapping.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ]
+    },
     "5ef01395-bf5b-c803-5a87-4226ae98e7d7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Rogue_Mars.scene.nasset/Bones.mesh.nasset/Thumbnails/Bones.mesh.nasset.tex.nasset"
@@ -1712,6 +1852,13 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Audio/SFX/Character/Footstep Stone 1.audio.nasset"
     },
+    "617630b0-1ca8-98df-caee-21d056fcc01a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Alien/Material Instances/Nails.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "61f507e3-880c-415c-bdd4-2df5a82b1efd": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -1733,6 +1880,14 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Audio/Music/Khaki Plaza.audio.nasset"
+    },
+    "63ab92e4-ba87-4f5d-b721-cac31d6a4e73": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Run Hold.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ]
     },
     "6434529a-c648-b405-d658-da19ee5e7278": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1785,6 +1940,14 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Audio/SFX/Character/Landing Stone 4.audio.nasset"
     },
+    "65c8fd11-0607-4e7d-8a68-208076e22c02": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Sitting.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ]
+    },
     "65d40d46-0212-fee2-17d5-ee12ad991fc8": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -1800,6 +1963,14 @@
         "dependencies": [
             "7f3d7071-0a32-a868-e744-ec39f3ceacd7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "679c103c-2a24-7f3d-f734-93b1beafea0f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Alien/SK_Rogue.scene.nasset/SK_Rogue.scene.nasset",
+        "dependencies": [
+            "abc6f9bb-d521-dda2-87bd-9986bd3abb80"
         ]
     },
     "69ee6d8f-a46d-1df6-90da-943c3490b2d2": {
@@ -2083,6 +2254,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "77903f93-df90-4e2f-a87b-d5de8d8cf3eb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Sword Slash.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ]
+    },
     "77e104ef-8841-85ef-f2d6-6f50b64f9f2d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Rogue_Mars.scene.nasset/Machine Cabled.mesh.nasset/Thumbnails/Machine Cabled.mesh.nasset.tex.nasset"
@@ -2180,6 +2359,14 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Audio/SFX/Character/Footstep Stone 2.audio.nasset"
     },
+    "7f5c30d4-0b98-411e-8cf9-a3316905e6b4": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Run Jump.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ]
+    },
     "80925b5e-92f6-2475-43d1-85e1294d7a15": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2206,6 +2393,14 @@
         "dependencies": [
             "8ab733f6-e43e-3332-04f4-3c92fbf250ff",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8175fb05-a646-4913-96b1-707b84d6dc9e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Idle.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
     },
     "81798e95-8116-3945-d9d1-4dc61c3eb96e": {
@@ -2250,6 +2445,16 @@
         "dependencies": [
             "78d33208-47e4-571f-5fa2-dc9e11ca3b9f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8346d8de-ea36-834b-ebe6-40985c788507": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Nails.meshskin.nasset",
+        "dependencies": [
+            "50f5822f-5fcf-157d-9393-eb6410a99231",
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+            "617630b0-1ca8-98df-caee-21d056fcc01a"
         ]
     },
     "835ecf64-fa3d-5242-1938-20440b47a02e": {
@@ -2343,6 +2548,14 @@
         "dependencies": [
             "3279d3ac-6324-e0d3-1ff4-afbc7bd2e122",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8633c6d3-515e-4b4f-b3ad-50dc4aebf48b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Swim.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
     },
     "86c94085-d216-4be3-8b98-03cc024ed96f": {
@@ -2626,6 +2839,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "931690d3-9c93-4e67-94b6-458ee718da14": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Standing.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ]
+    },
     "93549d5e-ebb7-0283-4933-e71356fcb38b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2675,6 +2896,14 @@
             "01b2a1c7-b6e4-71fd-47dd-c081aa84b895",
             "111d2b63-bb95-ab8d-78da-f2c040ca2cd3",
             "ace27ed7-5c3b-8af5-f261-915ae11f7aa2"
+        ]
+    },
+    "94ccc4b9-58cc-4a11-a6f6-31fdf8d755d5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Jump Loop.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
     },
     "951aaa09-85e9-40bc-cd73-8e16594ed324": {
@@ -2985,6 +3214,21 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a25cff00-66dc-4ecb-b821-2dfcfb24ad83": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Jump Start.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ]
+    },
+    "a2d66a82-e2c7-e70f-1bf3-f3d9cb02ac0a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Alien/Material Instances/Glass.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "a38432a9-3edf-4918-a4ec-10291d987861": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Thumbnail/Rogue_Mars_Thumb.tex.nasset"
@@ -3079,6 +3323,41 @@
     "aa90179e-7a00-b44b-1a72-064a6fb0097a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Rogue_Mars.scene.nasset/Crater.mesh.nasset/Thumbnails/Crater.mesh.nasset.tex.nasset"
+    },
+    "abc6f9bb-d521-dda2-87bd-9986bd3abb80": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "2ac34ad7-d032-06a4-98d0-e4b078b536ec",
+            "e610081e-8f74-9a05-4b54-eef6d4b28cb6",
+            "3dbe4828-f902-f182-2202-65374cdf737a",
+            "48d0d3f5-399e-f04f-eba7-4cb7df44d1ed",
+            "c0774a30-9007-0014-842d-ca4b294017df",
+            "b4eb0057-db41-0520-c2af-40a7543ea4d6",
+            "617630b0-1ca8-98df-caee-21d056fcc01a",
+            "50f5822f-5fcf-157d-9393-eb6410a99231",
+            "8346d8de-ea36-834b-ebe6-40985c788507",
+            "2c4448e2-7d5d-e5a7-6c41-3715fc971646",
+            "ba37628f-765a-fbaf-039b-89c08fbcded6",
+            "12b4b7cc-d553-7d13-cdac-441c42a062c5",
+            "021f33b9-9a73-6796-799a-78cdbca206fb",
+            "32daad25-9a06-13a9-54ca-698faaf1a9cf",
+            "ed98e637-6acf-90d9-84b8-005c508a12b3",
+            "a2d66a82-e2c7-e70f-1bf3-f3d9cb02ac0a",
+            "e4a753d5-0a00-1fc9-e07e-26de279a40ae",
+            "3d9278df-7c2a-0c07-13d6-bf3129aefdee",
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+            "8175fb05-a646-4913-96b1-707b84d6dc9e",
+            "c6de8e32-32b1-43c2-bd0e-2b0306525c53",
+            "14dc563a-b9f1-4793-a25c-05ab487fdd1f",
+            "a25cff00-66dc-4ecb-b821-2dfcfb24ad83",
+            "94ccc4b9-58cc-4a11-a6f6-31fdf8d755d5",
+            "f8385ce4-8cd2-4237-b5b2-dec2fad400d6"
+        ]
     },
     "acb0b004-6ad2-1414-b7c0-12315782f810": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -3212,6 +3491,16 @@
         "dependencies": [
             "85427cee-6c61-4853-eaac-63075d990b32",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b4eb0057-db41-0520-c2af-40a7543ea4d6": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Body.meshskin.nasset",
+        "dependencies": [
+            "c0774a30-9007-0014-842d-ca4b294017df",
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+            "48d0d3f5-399e-f04f-eba7-4cb7df44d1ed"
         ]
     },
     "b4f6849f-3fcf-1827-64f9-0c9af0e4ff72": {
@@ -3368,6 +3657,18 @@
             "732bcbed-6912-133f-354e-b6adc286861e"
         ]
     },
+    "ba37628f-765a-fbaf-039b-89c08fbcded6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2c4448e2-7d5d-e5a7-6c41-3715fc971646",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "ba500b3c-0455-0679-5432-7f35c5e433e4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3457,6 +3758,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c0774a30-9007-0014-842d-ca4b294017df": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Body.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "48d0d3f5-399e-f04f-eba7-4cb7df44d1ed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "c19122da-220a-7799-6ebb-152a6a462243": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -3529,6 +3842,14 @@
     "c5fb2663-d725-9302-9804-b983a54889a2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Pfx/T_Muzzle_Flash_D.tex.nasset"
+    },
+    "c6de8e32-32b1-43c2-bd0e-2b0306525c53": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Walk.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ]
     },
     "c6e462e8-b4ae-5acc-5cb6-cfa40b7d5b35": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3970,6 +4291,18 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Rogue_EnviroDiffuse.tex.nasset"
     },
+    "e4a753d5-0a00-1fc9-e07e-26de279a40ae": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a2d66a82-e2c7-e70f-1bf3-f3d9cb02ac0a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "e4f63ad6-c208-bd53-c7e5-b1910bf560a6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3991,6 +4324,18 @@
         ],
         "dependencies": [
             "c3b77add-7197-881e-456b-b0bd6b4a8525",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e610081e-8f74-9a05-4b54-eef6d4b28cb6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Stripe.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2ac34ad7-d032-06a4-98d0-e4b078b536ec",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -4070,6 +4415,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e8172b2a-190b-4197-a9e7-36a926b4de0b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Idle Hold.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ]
+    },
     "e87cbbbe-24bc-8903-37e8-eb53de844877": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4109,6 +4462,16 @@
         "dependencies": [
             "3279d3ac-6324-e0d3-1ff4-afbc7bd2e122",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ed98e637-6acf-90d9-84b8-005c508a12b3": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Eyes.meshskin.nasset",
+        "dependencies": [
+            "32daad25-9a06-13a9-54ca-698faaf1a9cf",
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+            "021f33b9-9a73-6796-799a-78cdbca206fb"
         ]
     },
     "edf22b79-c6e5-edf2-ab58-04e45df4bcc8": {
@@ -4172,6 +4535,10 @@
     "f0cdedf0-6830-99cf-1fc5-9d35c0e7fca6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Rogue_Mars.scene.nasset/Rail Corner.mesh.nasset/Thumbnails/Rail Corner.mesh.nasset.tex.nasset"
+    },
+    "f1e8f9de-a20d-4c45-a0e7-dab43a0c0eb4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Alien/Thumbnails/Rogue.scene.nasset.tex.nasset"
     },
     "f1f923f3-8c4d-b297-baf8-e3c7861c3f1f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4269,6 +4636,14 @@
         "dependencies": [
             "7f3d7071-0a32-a868-e744-ec39f3ceacd7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f8385ce4-8cd2-4237-b5b2-dec2fad400d6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Alien/Animations/Alien Rogue Jump End.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
     },
     "f8cf2ef1-27e4-eb8e-1865-957e24deb5a7": {
